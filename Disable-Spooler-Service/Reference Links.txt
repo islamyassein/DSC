@@ -1,0 +1,7 @@
+https://www.techthoughts.info/dsc-one-mof/
+
+https://learn.microsoft.com/en-us/powershell/dsc/configurations/configdata?view=dsc-1.1
+
+https://learn.microsoft.com/en-us/powershell/dsc/configurations/add-parameters-to-a-configuration?view=dsc-1.1
+
+http://eddiejackson.net/wp/?p=21865
